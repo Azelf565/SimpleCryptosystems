@@ -1,2 +1,2 @@
-# SimpleCryptosystems
-my lecture notes for the first lecture on Introductory Cryptography
+# Simple Cryptosystems
+my 'lecture notes' for the first lecture on Introductory Cryptography
